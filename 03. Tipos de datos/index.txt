@@ -1,0 +1,4 @@
+3 - Tipos de datos
+  + Enteros
+  + Punto flotante
+  + Caracteres

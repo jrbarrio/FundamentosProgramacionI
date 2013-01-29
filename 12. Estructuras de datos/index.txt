@@ -1,0 +1,8 @@
+12- Estructuras de datos
+  + Definición de una estructura
+  + Declaración de una variable estructura
+  + Inicialización de una variable estructura
+  + Arrays de estructuras
+  + Estructuras anidadas
+  + Relación entre punteros y estructuras
+  + Paso de estructuras a funciones

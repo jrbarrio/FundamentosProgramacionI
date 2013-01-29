@@ -1,0 +1,6 @@
+18- Métodos de ordenación de estructuras lineales
+  + Método de intercambio o de la burbuja
+  + Método de inserción o de la baraja
+  + Método de selección
+  + Método de Shell
+  + Método de ordenación rápida (quicksort)

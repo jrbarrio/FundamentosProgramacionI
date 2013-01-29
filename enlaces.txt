@@ -1,0 +1,14 @@
+Entendiendo make y los archivos Makefiles:
+http://www.opussoftware.com/tutorial/TutMakefile.htm
+http://mrbook.org/tutorials/make/
+http://www.calcifer.org/documentos/make/index.html
+http://es.wikipedia.org/wiki/Make
+http://arco.esi.uclm.es/~david.villa/doc/repo/make/make.html
+http://www.chuidiang.com/clinux/herramientas/makefile.php
+
+
+Qué es un archivo de cabecera:
+http://es.wikipedia.org/wiki/Archivo_de_cabecera
+
+Check Unit Testing
+http://check.sourceforge.net/doc/check_html/index.html#Top

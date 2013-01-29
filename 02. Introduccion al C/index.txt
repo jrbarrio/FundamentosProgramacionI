@@ -1,0 +1,5 @@
+2 - Introcucción al lenguaje C  
+  + Identificadores
+  + Comentarios
+  + Estructura general de un programa
+  + Definición de constantes

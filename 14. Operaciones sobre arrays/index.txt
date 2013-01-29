@@ -1,0 +1,5 @@
+14- Operaciones sobre arrays
+  + Recorrido de un array
+  + Inserción de un elmento en un array
+  + Eliminación de un elemento en un array
+  + Búsqueda de un elemento en un array

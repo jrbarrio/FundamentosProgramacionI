@@ -1,0 +1,4 @@
+6 - Sentencias selectivas
+  + Sentencia if
+  + Sentencia if-else
+  + Sentencia switch

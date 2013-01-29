@@ -1,0 +1,5 @@
+15- Listas encadenadas
+  + Reserva dinámica de memoria: asignadores de memoria
+  + Introducción a las listas encadenadas
+  + Listas circulares
+  + Listas doblemente encadenadas

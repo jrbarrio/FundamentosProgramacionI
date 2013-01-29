@@ -1,0 +1,107 @@
+1 - Lenguajes de programación
+  + Introducción
+  + Lenguaje máquina
+  + Lenguajes de bajo nivel
+  + Traductores: compiladores e intérpretes
+  + Principales lenguajes de alto nivel
+2 - Introcucción al lenguaje C  
+  + Identificadores
+  + Comentarios
+  + Estructura general de un programa
+  + Definición de constantes
+3 - Tipos de datos
+  + Enteros
+  + Punto flotante
+  + Caracteres
+4 - Funciones de entrada y salida
+  + Función de salida: especificadores de conversión, modificadores de especificadores de conversión
+  + Caracteres no imprimibles
+  + Función de entrada: especificadores de conversión
+  + Funciones de entrada y salida de un sólo carácter
+5 - Expresiones y operadores
+  + Operador de asignación
+  + Operadores aritméticos
+  + Conversiones de tipo en expresiones aritméticas y asignaciones
+  + Operadores de relación
+  + Operadores lógicos
+  + Otros operadores
+  + Prioridad de operadores
+  + Operador condicional
+6 - Sentencias selectivas
+  + Sentencia if
+  + Sentencia if-else
+  + Sentencia switch
+7 - Sentencias repetitivas
+  + Sentencia for
+  + Sentencia while
+  + Sentencia do-while
+  + Otras sentencias de control
+8 - Funciones
+  + Introducción
+  + Variables locales y variables globales
+  + Punteros
+  + Transmisión de información entre funciones
+  + Modos de almacenamiento de variables
+9 - El preprocesador
+  - Sentencias del preprocesador
+  - Definición de macros
+  - Diferencias entre expansión de una macro y llamada a una función
+  - Ventajas e inconvenientes de las macros frente a las funciones
+10- Arrays
+  + Declaración de un array
+  + Referencias a los elementos de un array
+  + Inicialización de un array
+  + Paso de un array a una función
+  + Relación entre punteros y arrays
+  + Doble indirección: punteros a punteros
+11- Cadenas de caracteres
+  + Constantes cadena
+  + Variables cadena
+  + Funciones de entrada y salida de cadenas
+  + Inicialización de cadenas
+  + Arrays de cadenas
+  + Funciones de cadena
+  + Relación entre punteros y cadenas
+12- Estructuras de datos
+  + Definición de una estructura
+  + Declaración de una variable estructura
+  + Inicialización de una variable estructura
+  + Arrays de estructuras
+  + Estructuras anidadas
+  + Relación entre punteros y estructuras
+  + Paso de estructuras a funciones
+13- Uniones
+  + Definición de una unión
+  + Declaración de una variable unión
+  + Acceso a los campos de una unión
+14- Operaciones sobre arrays
+  + Recorrido de un array
+  + Inserción de un elmento en un array
+  + Eliminación de un elemento en un array
+  + Búsqueda de un elemento en un array
+15- Listas encadenadas
+  + Reserva dinámica de memoria: asignadores de memoria
+  + Introducción a las listas encadenadas
+  + Listas circulares
+  + Listas doblemente encadenadas
+16- Operaciones sobre listas encadenadas
+  + Recorrido de una lista encadenada
+  + Búsqueda de un elemento en una lista encadenada
+  + Inserción de un elemento en una lista encadenada
+  + Eliminación de un elemento en una lista encadenada
+17- Pilas y colas
+  + Pilas: listas encadenadas y arrays
+  + Colas: listas encadenadas y arrays
+  + Dobles colas
+18- Métodos de ordenación de estructuras lineales
+  + Método de intercambio o de la burbuja
+  + Método de inserción o de la baraja
+  + Método de selección
+  + Método de Shell
+  + Método de ordenación rápida (quicksort)
+19- Ficheros
+  + Introducción
+  + Fichero físico y fichero lógico
+  + Diferencias entre ficheros binarios y ficheros de texto
+  + Funciones para el manejo de ficheros binarios
+  + Funciones para el  manejo de ficheros de texto  

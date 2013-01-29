@@ -1,0 +1,6 @@
+19- Ficheros
+  + Introducción
+  + Fichero físico y fichero lógico
+  + Diferencias entre ficheros binarios y ficheros de texto
+  + Funciones para el manejo de ficheros binarios
+  + Funciones para el  manejo de ficheros de texto

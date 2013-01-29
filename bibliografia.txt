@@ -1,0 +1,2 @@
+Prentice Hall - The Ansi C Programming Language 2nd Ed By - Brian W Kernighan And Dennis M Ritchie
+Aprenda lenguaje ANSI C como si estuviera en primero

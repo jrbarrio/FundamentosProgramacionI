@@ -1,0 +1,9 @@
+5 - Expresiones y operadores
+  + Operador de asignación
+  + Operadores aritméticos
+  + Conversiones de tipo en expresiones aritméticas y asignaciones
+  + Operadores de relación
+  + Operadores lógicos
+  + Otros operadores
+  + Prioridad de operadores
+  + Operador condicional

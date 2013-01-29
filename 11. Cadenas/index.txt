@@ -1,0 +1,8 @@
+11- Cadenas de caracteres
+  + Constantes cadena
+  + Variables cadena
+  + Funciones de entrada y salida de cadenas
+  + Inicialización de cadenas
+  + Arrays de cadenas
+  + Funciones de cadena
+  + Relación entre punteros y cadenas

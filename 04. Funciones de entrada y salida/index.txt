@@ -1,0 +1,5 @@
+4 - Funciones de entrada y salida
+  + Función de salida: especificadores de conversión, modificadores de especificadores de conversión
+  + Caracteres no imprimibles
+  + Función de entrada: especificadores de conversión
+  + Funciones de entrada y salida de un sólo carácter

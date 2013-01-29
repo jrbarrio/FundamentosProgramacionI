@@ -1,0 +1,7 @@
+10- Arrays
+  + Declaración de un array
+  + Referencias a los elementos de un array
+  + Inicialización de un array
+  + Paso de un array a una función
+  + Relación entre punteros y arrays
+  + Doble indirección: punteros a punteros

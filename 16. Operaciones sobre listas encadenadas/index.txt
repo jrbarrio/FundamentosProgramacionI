@@ -1,0 +1,5 @@
+16- Operaciones sobre listas encadenadas
+  + Recorrido de una lista encadenada
+  + Búsqueda de un elemento en una lista encadenada
+  + Inserción de un elemento en una lista encadenada
+  + Eliminación de un elemento en una lista encadenada
